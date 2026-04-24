@@ -19,6 +19,7 @@ struct ContentView: View {
             Text ("new line")
             Circle()
                 .foregroundStyle(.red)
+            Text ("HEHEHAHAHA")
             Text ("step 17")
     
         }
