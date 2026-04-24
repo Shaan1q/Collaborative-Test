@@ -13,8 +13,6 @@ struct ContentView: View {
             Text("Collab")
             Image(systemName: "globe")
                 .imageScale(.large)
-                .foregroundStyle(.brown)
-            
                 .foregroundStyle(.red)
             Text("Hello, world! HI YES EDITTED")
             Text("This is an added line of code")
