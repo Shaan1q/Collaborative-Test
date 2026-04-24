@@ -17,6 +17,7 @@ struct ContentView: View {
             Text("Hello, world! HI YES EDITTED")
             Text("This is an added line of code")
             Text ("new line")
+            Text ("step 17")
     
         }
         .padding()
