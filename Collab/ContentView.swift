@@ -18,6 +18,7 @@ struct ContentView: View {
             Text("This is an added line of code")
             Text ("new line")
             Text ("HEHEHAHAHA")
+            Text ("step 17")
     
         }
         .padding()
